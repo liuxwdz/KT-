@@ -4,4 +4,12 @@
     android:layout_height="match_parent"
     android:orientation="vertical">
 
+    <include layout="@layout/toolbar" />
+
+    <fragment
+        android:id="@+id/settingfragment"
+        class="com.example.mediavideo.ui.fragment.SettingFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
 </LinearLayout>

@@ -40,4 +40,8 @@ interface ToolBarManager {
             true
         }
     }
+
+    fun initSettingToolBar() {
+        toolBar.setTitle("设置")
+    }
 }
