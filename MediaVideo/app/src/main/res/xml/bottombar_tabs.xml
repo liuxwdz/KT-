@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs>
+    <tab
+        icon="@drawable/floatview_searchimg_normal"
+        id="@+id/tab_home"
+        title="首页" />
+    <tab
+        icon="@drawable/floatview_searchlyric_normal"
+        id="@+id/tab_mv"
+        title="MV" />
+    <tab
+        icon="@drawable/floatview_set_skin_normal"
+        id="@+id/tab_vbang"
+        title="V榜" />
+    <tab
+        icon="@drawable/floatview_showlyricbk_normal"
+        id="@+id/tab_yuelist"
+        title="乐单" />
+</tabs>
